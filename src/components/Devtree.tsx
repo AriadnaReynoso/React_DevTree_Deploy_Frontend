@@ -68,7 +68,7 @@ export default function Devtree({data}:DevtreePorpops) {
                     <div className="flex justify-end">
                         <Link 
                             className="text-slate-800 font-bold text-xl "
-                            to={`/${data.handle}`}
+                            to={`/admin/${data.handle}`}
                             target="_blank"
                             rel="noreferrer noopener"
                         >Visitar Mi Perfil: <span className="text-lime-500 hover:underline hover:text-lime-600">/{data.handle}</span></Link>
