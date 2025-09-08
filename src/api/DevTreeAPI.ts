@@ -46,7 +46,7 @@ export async function getUserByHandle(handle: string) {
 
     try {
         //tipando data como un UserHandle via generics para saber que tipo de dato va a regresar
-        const { data } = await api<UserHandle>(`/${handle}` )
+        const { data } = await api<UserHandle>(`/admin/${handle}` )
         return data
     } catch (error) {
         if (isAxiosError(error) && error.response) {
