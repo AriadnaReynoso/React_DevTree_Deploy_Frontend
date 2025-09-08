@@ -65,6 +65,8 @@ The backend is built with Node.js, Express, MongoDB, and TypeScript, providing a
 * **Structured with controllers, middleware, models, and routes for modular API endpoints.**
 * **Secured with JWT authentication and bcrypt for password hashing.**
 
+**App Overview:** [https://ariadnareynoso-devtree.netlify.app/](https://ariadnareynoso-devtree.netlify.app/)
+
 ---
 Author:
 Developed by Ariadna Reynoso.
@@ -134,6 +136,8 @@ El backend está construido con Node.js, Express, MongoDB y TypeScript, proporci
 * **Usa MongoDB con Mongoose para almacenamiento de datos.**
 * **Estructurado con controladores, middleware, modelos y rutas para endpoints de API modulares.**
 * **Protegido con autenticación JWT y hash de contraseñas con bcrypt.**
+
+**Vista de la App:** [https://ariadnareynoso-devtree.netlify.app/](https://ariadnareynoso-devtree.netlify.app/)
 
 ---
 Autora: 
